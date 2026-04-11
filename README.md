@@ -21,11 +21,11 @@
 
 ### 稳定性价比机场：送小火箭ID、专属客户端
 
-🖥 **[[官网](https://user.xing-yun-1.com/#/register?code=RAsqP5M1)]**
+🖥 **[[官网](https://user.xing-yun-1.com/#/register?code=gwWWNBoy)]**
 
-🖥 **[[官网](https://cloud.xyfast.xyz/#/register?code=RAsqP5M1)]**
+🖥 **[[官网](https://cloud.xyfast.xyz/#/register?code=gwWWNBoy)]**
 
-📲 **[[官网2](https://cdn.xxxlsop3.com/#/register?code=RAsqP5M1)]**
+📲 **[[官网2](https://cdn.xxxlsop3.com/#/register?code=gwWWNBoy)]**
 
 📟 月付18元100GB、38元300GB、58元500GB、
 
@@ -55,38 +55,47 @@
 
 <h2 class="h2h2">2026-SS-SSR免费节点订阅地址- </h2>
 <pre>
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%E6%9C%AA%E7%9F%A5%20SS-21%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#%E6%9C%AA%E7%9F%A5%20SS-22%20%7C%20free-nodes
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#SG%20TROJAN-23%20%7C%20free-nodes
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#TR%20TROJAN-24%20%7C%20free-nodes
-trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:34818?security=tls&sni=www.nintendogames.net#JP%20TROJAN-25%20%7C%20free-nodes
-trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4937?security=tls&sni=www.nintendogames.net#JP%20TROJAN-26%20%7C%20free-nodes
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4674?security=tls&sni=www.nintendogames.net#SG%20TROJAN-27%20%7C%20free-nodes
-trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?security=tls&sni=www.nintendogames.net#US%20TROJAN-28%20%7C%20free-nodes
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#TR%20TROJAN-29%20%7C%20free-nodes
-vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@3g.vles.space:510?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gTLxGPaumAT1gY3dEXIbZcr0Ocspb1hdrEG5oBkPOA8&security=reality&sni=cdn.vkvideo.ru&type=tcp#%E6%9C%AA%E7%9F%A5%20VLESS-30%20%7C%20free-nodes
-vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@xxx.vles.space:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4iRluJhaeflkqdEO8RLeLxTeTVIhzw9r8Y35fppsTFg&security=reality&sni=sun1-91.userapi.com&type=tcp#DE%20VLESS-31%20%7C%20free-nodes
-vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&sid=4e249e62&sni=stats.vk-portal.net#RU%20VLESS-32%20%7C%20free-nodes
-vless://1472b7a6-da03-4999-8247-adf67830bc14@144.31.63.7:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0&security=reality&sni=deout.funvideorus.net&type=tcp#DE%20VLESS-33%20%7C%20free-nodes
-
+vless://e6567a1e-260f-4b0e-8de3-e2e12f90e854@152.53.80.40:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=sha.helper-internet.com&type=tcp#US%20VLESS-130%20%7C%20free-nodes
+vless://ee248e40-9468-4ef6-81b7-707a1e47c54a@192.200.160.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=639073677243557970.camry-perma.info&path=%2Fyaeungws&security=tls&sni=639073677243557970.camry-perma.info&type=ws#%E6%9C%AA%E7%9F%A5%20VLESS-131%20%7C%20free-nodes
+vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#DE%20VLESS-132%20%7C%20free-nodes
+vless://f7bae22e-20ab-11f1-835c-0242ac110002@fi1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&security=reality&sid=5bfa0c&sni=fi1.cyphervpn.pro&type=tcp#%E6%9C%AA%E7%9F%A5%20VLESS-133%20%7C%20free-nodes
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&spx=/#%E6%9C%AA%E7%9F%A5%20VLESS-134%20%7C%20free-nodes
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%E6%9C%AA%E7%9F%A5%20VLESS-135%20%7C%20free-nodes
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@www.ccgfw.top:443#%E6%9C%AA%E7%9F%A5%20SS-136%20%7C%20free-nodes
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@www.ccgfw.top:443#%E6%9C%AA%E7%9F%A5%20SS-137%20%7C%20free-nodes
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@www.ccgfw.top:443#%E6%9C%AA%E7%9F%A5%20SS-138%20%7C%20free-nodes
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@www.ccgfw.top:443#%E6%9C%AA%E7%9F%A5%20SS-139%20%7C%20free-nodes
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@www.ccgfw.top:443#%E6%9C%AA%E7%9F%A5%20SS-140%20%7C%20free-nodes
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@www.ccgfw.top:443#%E6%9C%AA%E7%9F%A5%20SS-141%20%7C%20free-nodes
+vless://872624ac-aa40-39b1-8232-f7270812c234@s504.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s504.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u711541u9c18s504.okgg.top&serviceName=&mode=&alpn=#%E6%9C%AA%E7%9F%A5%20VLESS-142%20%7C%20free-nodes
+vless://872624ac-aa40-39b1-8232-f7270812c234@s644.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s644.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u711541ud3c8s644.ccgfw.top&serviceName=&mode=&alpn=#GB%20VLESS-143%20%7C%20free-nodes
+vless://872624ac-aa40-39b1-8232-f7270812c234@s531.ccgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s531.ccgfw.top&path=&flow=&security=tls&sni=u711541u9042s531.ccgfw.top&serviceName=ssp&mode=gun&alpn=#US%20VLESS-144%20%7C%20free-nodes
+vless://872624ac-aa40-39b1-8232-f7270812c234@ipv6s350.okgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=ipv6s350.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u711541u997cipv6s350.okgfw.top&serviceName=&mode=&alpn=#%E6%9C%AA%E7%9F%A5%20VLESS-145%20%7C%20free-nodes
+trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#TR%20TROJAN-77%20%7C%20free-nodes
+trojan://BxceQaOe@58.152.25.253:443?sni=t.me/ripaojiedian#HK%20TROJAN-78%20%7C%20free-nodes
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#TR%20TROJAN-79%20%7C%20free-nodes
+trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#US%20TROJAN-80%20%7C%20free-nodes
+trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?security=tls&sni=ord2.edge-command.click#US%20TROJAN-81%20%7C%20free-nodes
+trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#US%20TROJAN-82%20%7C%20free-nodes
+trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#US%20TROJAN-83%20%7C%20free-nodes
 
 
 </pre>                                                                   
 
 
 <h2 class="h2h2">2026年clash免费节点订阅地址</h2><pre>
-https://github.nodebest.xyz/clash-nodes-subscription-c/2026/03/update-202603.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-d/2026/03/update-202603.yaml</pre>
+https://github.nodebest.xyz/clash-nodes-subscription-c/2026/04/update-202604.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-d/2026/04/update-202604.yaml</pre>
 <h2 class="h2h2"> 2026年v2ray免费节点订阅地址</h2>
 <pre>
-https://github.nodebest.xyz/v2ray-nodes-subscription-a/2026/03/update-202603.txt
-https://github.nodebest.xyz/v2ray-nodes-subscription-b/2026/03/update-202603.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-a/2026/04/update-202604.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-b/2026/04/update-202604.txt
 </pre>
 
 <h2 class="h2h2">2026年通用base64订阅地址</h2>
-<pre>https://github.nodebest.xyz/base64-nodes-subscription/2026/03/update-202603.txt</pre>
+<pre>https://github.nodebest.xyz/base64-nodes-subscription/2026/04/update-202604.txt</pre>
 <h2 class="h2h2">2026年sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2026/03/update-202603.json </pre>
+<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2026/04/update-202604.json </pre>
 <hr />
 
 
@@ -102,7 +111,7 @@ https://github.nodebest.xyz/v2ray-nodes-subscription-b/2026/03/update-202603.txt
 <h3 class="h3h3">clash订阅开源节选</h3><pre>
 
 
-#### Update: 2026-03
+#### Update: 2026-04
 
 allow-lan: false
 dns:
@@ -215,252 +224,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- alterId: 0
-  cipher: auto
-  name: DE41｜机房｜高风险 (黑名单)
-  network: tcp
-  port: '180'
-  server: 82.198.246.97
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- alterId: 64
-  cipher: auto
-  name: US74｜机房｜低风险
-  network: tcp
-  port: '34114'
-  server: 103.181.164.237
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alpn:
-  - h3%2Ch2%2Chttp%2F1.1
-  name: US80｜机房｜低风险
-  network: ws
-  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
-  port: 443
-  server: 172.64.53.190
-  skip-cert-verify: true
-  sni: snll667.pages.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: snll667.pages.dev
-    path: '%2F'
-- alpn:
-  - h3%2Ch2%2Chttp%2F1.1
-  name: TW3｜机房｜低风险
-  network: ws
-  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
-  port: 14147
-  server: 203.69.248.40
-  skip-cert-verify: true
-  sni: snll667.pages.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: snll667.pages.dev
-    path: '%2F'
-- alterId: 0
-  cipher: auto
-  name: ID5｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 8.223.63.150
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID6｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 34.143.159.175
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- name: PE2｜机房｜低风险
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 38.180.173.150
-  skip-cert-verify: true
-  sni: 38.180.173.150
-  type: trojan
-- alpn:
-  - h3%2Ch2%2Chttp%2F1.1
-  name: HK67｜机房｜低风险
-  network: ws
-  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
-  port: 443
-  server: cf.877774.xyz
-  skip-cert-verify: true
-  sni: snll667.pages.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: snll667.pages.dev
-    path: '%2F'
-- alpn:
-  - h3%2Ch2%2Chttp%2F1.1
-  name: HK68｜机房｜低风险
-  network: ws
-  password: 823cbccd-3a71-4248-ac3c-3c460de1552d
-  port: 443
-  server: 95.40.61.115
-  skip-cert-verify: true
-  sni: snll667.pages.dev
-  type: trojan
-  ws-opts:
-    headers:
-      Host: snll667.pages.dev
-    path: '%2F'
-- alterId: 0
-  cipher: auto
-  name: ID17｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 83.229.121.113
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID24｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 47.76.218.163
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID10｜家宽｜非常安全
-  network: ws
-  port: '2087'
-  server: 103.224.80.7
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID16｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 38.55.194.138
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID21｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 149.104.31.55
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID22｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 38.55.193.19
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID25｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 43.134.87.15
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- alterId: 0
-  cipher: auto
-  name: ID23｜家宽｜非常安全
-  network: ws
-  port: '443'
-  server: 38.55.193.78
-  servername: mn1ray.jagoanvip.xyz
-  tls: true
-  type: vmess
-  uuid: 462d9694-62b5-4781-a287-61a422b920e8
-  ws-opts:
-    headers:
-      Host: mn1ray.jagoanvip.xyz
-    path: /vvip
-- name: IN1｜机房｜低风险
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 139.84.133.199
-  skip-cert-verify: true
-  sni: 139.84.133.199
-  type: trojan
-- name: US146｜机房｜低风险
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 194.33.45.157
-  skip-cert-verify: true
-  sni: 194.33.45.157
-  type: trojan
-- name: SG6｜机房｜高风险 (黑名单)
-  network: tcp
-  password: af4b064a9c39472fb34ad8b113acdc6b
-  port: 443
-  server: 5.180.78.22
-  skip-cert-verify: true
-  sni: 5.180.78.22
-  type: trojan
 - cipher: aes-256-cfb
   name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
@@ -478,97 +241,81 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: 香港3|@ripaojiedian
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 921
-  server: 54.238.23.69
+  password: 187dda4498be9ac4f28db939d5940185
+  port: 21413
+  server: 57.180.63.46
   skip-cert-verify: false
   sni: www.nintendogames.net
-  type: trojan
-- name: 香港4|@ripaojiedian
-  network: tcp
-  password: BxceQaOe
-  port: 443
-  server: 119.237.128.216
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
   type: trojan
 - name: 香港5|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 6313
-  server: 13.231.91.242
+  port: 4972
+  server: 95.40.86.174
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 4945
-  server: 3.112.213.24
+  port: 4746
+  server: 57.180.63.46
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 日本2|@ripaojiedian
-  network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 34818
-  server: 153.121.38.213
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
 - name: 日本3|@ripaojiedian
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 4937
-  server: 160.16.85.33
+  password: 187dda4498be9ac4f28db939d5940185
+  port: 4380
+  server: 13.193.223.51
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡|@ripaojiedian
   network: tcp
-  password: f7dbed8b1ca85124e793ba6c0bcfd0db
-  port: 3419
-  server: 160.16.85.33
+  password: 187dda4498be9ac4f28db939d5940185
+  port: 4674
+  server: 13.193.223.51
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡2|@ripaojiedian
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
+  password: 187dda4498be9ac4f28db939d5940185
   port: 4674
-  server: 160.16.85.33
+  server: 57.180.66.105
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 52951
-  server: 13.231.110.103
+  port: 22045
+  server: 43.207.110.4
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 美国|@ripaojiedian
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 4920
-  server: 54.238.23.69
+  password: 187dda4498be9ac4f28db939d5940185
+  port: 29370
+  server: 57.180.63.46
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 美国2|@ripaojiedian
   network: tcp
-  password: f389ed926e512e15f382dc3804029474
-  port: 4920
-  server: 54.248.177.86
+  password: 187dda4498be9ac4f28db939d5940185
+  port: 3057
+  server: 13.193.223.51
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 5390
-  server: 16.163.105.149
+  port: 49534
+  server: 18.162.52.201
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -582,12 +329,59 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: CN_speednode_0005
-  password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37
-  port: 35902
-  server: sg03.stimaysmhy8.com
+- name: AT_speednode_0001
+  network: ws
+  password: trojan
+  port: 8444
+  server: 152.53.200.167
+  skip-cert-verify: false
+  sni: jflsjlaf.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: jflsjlaf.pages.dev
+    path: /
+- name: AT_speednode_0002
+  network: ws
+  password: trojan
+  port: 8444
+  server: 152.53.200.98
+  skip-cert-verify: false
+  sni: jflsjlaf.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: jflsjlaf.pages.dev
+    path: /
+- name: ID_speednode_0032
+  password: M7v%w11Se*
+  port: 443
+  server: qfdfsg.wsone.icu
   skip-cert-verify: true
-  sni: jsygouer.weixin-baidu-qq.com
+  sni: qfdfsg.wsone.icu
+  type: trojan
+  udp: true
+- name: JP_speednode_0035
+  network: ws
+  password: trojan
+  port: 587
+  server: 217.142.250.195
+  skip-cert-verify: true
+  sni: jflsjlaf.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: jflsjlaf.pages.dev
+    path: /
+- name: NL_speednode_0040
+  password: strong-secret-pass-777
+  port: 4443
+  server: 94.131.105.125
+  skip-cert-verify: true
+  sni: 94.131.105.125
   type: trojan
   udp: true
 proxy-groups:
@@ -601,52 +395,34 @@ proxy-groups:
 - interval: 300
   name: ♻ 自动选择
   proxies: &id001
-  - 香港4|@ripaojiedian
-  - 美国|@ripaojiedian
-  - CN_speednode_0005
+  - AT_speednode_0002
   - '防范境外势力渗透 #2'
-  - 新加坡|@ripaojiedian
+  - '防范境外势力渗透 #5'
   - 新加坡2|@ripaojiedian
-  - ID21｜家宽｜非常安全
-  - 日本|@ripaojiedian
+  - 新加坡|@ripaojiedian
+  - '防范境外势力渗透 #6'
+  - NL_speednode_0040
   - '防范境外势力渗透 #1'
-  - ID23｜家宽｜非常安全
-  - PE2｜机房｜低风险
-  - HK68｜机房｜低风险
-  - US80｜机房｜低风险
-  - ID24｜家宽｜非常安全
-  - US146｜机房｜低风险
-  - SG6｜机房｜高风险 (黑名单)
-  - 'tg频道:@ripaojiedian #1'
-  - ID16｜家宽｜非常安全
-  - ID5｜家宽｜非常安全
-  - ID25｜家宽｜非常安全
-  - US74｜机房｜低风险
+  - JP_speednode_0035
+  - 香港3|@ripaojiedian
+  - 日本|@ripaojiedian
+  - 美国3|@ripaojiedian
+  - '防范境外势力渗透 #7'
+  - 日本3|@ripaojiedian
+  - '防范境外势力渗透 #3'
+  - 新加坡3|@ripaojiedian
   - '防范境外势力渗透 #8'
   - '防范境外势力渗透 #9'
-  - 日本3|@ripaojiedian
-  - ID17｜家宽｜非常安全
-  - '防范境外势力渗透 #7'
-  - '防范境外势力渗透 #3'
+  - AT_speednode_0001
   - '防范境外势力渗透 #4'
-  - 🇭🇰 香港|@ripaojiedian
-  - 香港3|@ripaojiedian
-  - 美国3|@ripaojiedian
-  - TW3｜机房｜低风险
+  - 'tg频道:@ripaojiedian #1'
   - 美国2|@ripaojiedian
-  - '防范境外势力渗透 #6'
-  - 新加坡3|@ripaojiedian
-  - 日本2|@ripaojiedian
-  - '防范境外势力渗透 #5'
-  - ID10｜家宽｜非常安全
-  - HK67｜机房｜低风险
-  - DE41｜机房｜高风险 (黑名单)
-  - ID22｜家宽｜非常安全
-  - IN1｜机房｜低风险
   - 香港5|@ripaojiedian
-  - 防范境外势力渗透
-  - ID6｜家宽｜非常安全
   - 香港|@ripaojiedian
+  - ID_speednode_0032
+  - 🇭🇰 香港|@ripaojiedian
+  - 防范境外势力渗透
+  - 美国|@ripaojiedian
   type: fallback
   url: https://www.google.com/
 - interval: 300
@@ -703,33 +479,27 @@ proxy-groups:
 - name: 🇯🇵 日本
   proxies:
   - 日本|@ripaojiedian
-  - 日本2|@ripaojiedian
   - 日本3|@ripaojiedian
+  - JP_speednode_0035
   type: select
 - name: 🇺🇸 美国
   proxies:
-  - US74｜机房｜低风险
-  - US80｜机房｜低风险
-  - US146｜机房｜低风险
   - 美国|@ripaojiedian
   - 美国2|@ripaojiedian
   - 美国3|@ripaojiedian
   type: select
 - name: 🇨🇳 台湾
   proxies:
-  - TW3｜机房｜低风险
+  - REJECT
   type: select
 - name: 🇨🇳 中国
   proxies:
-  - CN_speednode_0005
+  - REJECT
   type: select
 - name: 🇭🇰 香港
   proxies:
-  - HK67｜机房｜低风险
-  - HK68｜机房｜低风险
   - 🇭🇰 香港|@ripaojiedian
   - 香港3|@ripaojiedian
-  - 香港4|@ripaojiedian
   - 香港5|@ripaojiedian
   - 香港|@ripaojiedian
   type: select
@@ -743,7 +513,6 @@ proxy-groups:
   type: select
 - name: 🇸🇬 新加坡
   proxies:
-  - SG6｜机房｜高风险 (黑名单)
   - 新加坡|@ripaojiedian
   - 新加坡2|@ripaojiedian
   - 新加坡3|@ripaojiedian
@@ -762,7 +531,7 @@ proxy-groups:
   type: select
 - name: 🇩🇪 德国
   proxies:
-  - DE41｜机房｜高风险 (黑名单)
+  - REJECT
   type: select
 rules:
 - IP-CIDR,154.7.80.158/32,⛔ 广告拦截
@@ -10004,7 +9773,7 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 <hr />
 
 ***
-[**» 进入性价比机场-优惠活动中-高速/稳定/推荐-月付18元100GB、一次性流量48元200G、108元500G、送小火箭ID、小白专属客户端，1秒上手**](https://user.xing-yun-1.com/#/register?code=RAsqP5M1) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
+[**» 进入性价比机场-优惠活动中-高速/稳定/推荐-月付18元100GB、一次性流量48元200G、108元500G、送小火箭ID、小白专属客户端，1秒上手**](https://user.xing-yun-1.com/#/register?code=gwWWNBoy) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
 
 
 ***
